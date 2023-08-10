@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uche Daniel</h1>
-<h3 align="center">My journey began with a single 'Hello, World!' and has since evolved into an odyssey of innovation. From Python's elegance to JavaScript's dynamism, I've traversed languages and paradigms, each adding a unique color to my coding canvas. Whether it's tinkering with algorithms or architecting robust systems, I thrive on transforming abstract ideas into tangible applications.</h3>
+<p align="center">My journey began with a single 'Hello, World!' and has since evolved into an odyssey of innovation. From Python's elegance to JavaScript's dynamism, I've traversed languages and paradigms, each adding a unique color to my coding canvas. Whether it's tinkering with algorithms or architecting robust systems, I thrive on transforming abstract ideas into tangible applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="hustledanie" /> </p>
 
