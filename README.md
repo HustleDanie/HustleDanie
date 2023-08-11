@@ -1,4 +1,4 @@
-<h1 align="center">Born to code, Driven by curiousity!</h1>
+<h1 align="center">Hi , I'm Uche Daniel</h1>
 <br>
 <p align="center">My journey began with a single 'Hello, World!' and has since evolved into an odyssey of innovation. From Python's elegance to JavaScript's dynamism, I've traversed languages and paradigms, each adding a unique color to my coding canvas. Whether it's tinkering with algorithms or architecting robust systems, I thrive on transforming abstract ideas into tangible applications.</p>
 
