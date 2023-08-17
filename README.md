@@ -16,7 +16,6 @@
 <a href="https://instagram.com/@hustledanie1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hustledanie1" height="30" width="40" /></a>
 <a href="https://medium.com/@hustledanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hustledanie" height="30" width="40" /></a>
 </p>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustledanie&show_icons=true&locale=en&layout=compact" alt="hustledanie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustledanie&show_icons=true&locale=en" alt="hustledanie" /></p>
