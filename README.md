@@ -6,7 +6,7 @@
 
  🤖  I'm currently building several Machine Learning, Artficial Intelligence and Deep Learning projects<br>
  🤖  Check out some random cool stuffs i worked on: [Hustle Daniel's Portfolio](hustledaniel.vercel.app)<br>
- 🤖 I want to be a robotics programmer
+ 🤖  I want to be a robotics programmer<BR>
  🤖  I like to explore cultures
 
 <h3 align="left">Connect with me:</h3>
