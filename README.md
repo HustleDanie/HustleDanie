@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="hustledanie" /> </p><br>
 
-- 🤖  I'm currently building several Machine Learning, Artficial Intelligence and Deep Learning projects<br>
-- 🤖  Check out some random cool stuffs i worked on: [Hustle Daniel's Portfolio](hustledaniel.vercel.app)<br>
-- 🤖 I want to be a robotics programmer
-- 🤖  I like to explore cultures
+ 🤖  I'm currently building several Machine Learning, Artficial Intelligence and Deep Learning projects<br>
+ 🤖  Check out some random cool stuffs i worked on: [Hustle Daniel's Portfolio](hustledaniel.vercel.app)<br>
+ 🤖 I want to be a robotics programmer
+ 🤖  I like to explore cultures
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
