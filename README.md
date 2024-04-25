@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
-<h3 align="center">🤖 Hi, I'm a Data Scientist</h3>
+<h2 align="center">🤖 Hi, I'm a DATA SCIENTIST</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="hustledanie" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hustledanie_" target="blank"><img src="https://img.shields.io/twitter/follow/hustledanie_?logo=twitter&style=for-the-badge" alt="hustledanie_" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="hustledanie" /> </p><br>
 
-- 🤖 Check out some random cool stuffs i worked on: [Hustle Daniel's Portfolio](hustledaniel.vercel.app)
-
-- 🤖 Fun Fact: **I like to travel and explore new things**
+- 🤖  I'm currently building several Machine Learning, Artficial Intelligence and Deep Learning projects<br>
+- 🤖  Check out some random cool stuffs i worked on: [Hustle Daniel's Portfolio](hustledaniel.vercel.app)<br>
+- 🤖 I want to be a robotics programmer
+- 🤖  I like to explore cultures
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
