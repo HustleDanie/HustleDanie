@@ -1,6 +1,4 @@
-Here’s an improved and tailored version of your GitHub README that highlights your expertise and focus areas in **Natural Language Processing (NLP)**, **Time Series**, **Reinforcement Learning**, **Generative Modeling**, **MLOps**, **Deployment**, and **Computer Vision**:
 
-```markdown
 <h1 align="center">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
 <h2 align="center">🤖 Machine Learning Engineer | AI Enthusiast</h2>
 
