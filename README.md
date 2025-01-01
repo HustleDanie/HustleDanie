@@ -1,175 +1,95 @@
-<style>
-  .gradient-heading {
-    background: linear-gradient(90deg, #6a11cb, #2575fc);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 3rem;
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 1rem;
-  }
-
-  .github-stat {
-    position: relative;
-    display: inline-block;
-  }
-
-  .github-stat:hover .tooltip {
-    visibility: visible;
-    opacity: 1;
-  }
-
-  .tooltip {
-    visibility: hidden;
-    width: 200px;
-    background-color: #000;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -100px;
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-
-  .tooltip::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #000 transparent transparent transparent;
-  }
-</style>
-
-<h1 class="gradient-heading">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00C58E&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer+%7C+AI+Researcher;NLP+%7C+Time+Series+%7C+Reinforcement+Learning;Generative+Modeling+%7C+MLOps+%7C+Deployment;Computer+Vision+Specialist;Passionate+about+Building+AI+Solutions" alt="Typing SVG" />
-</h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="hustledanie" /> </p>
-
----
-
-### 🤖 About Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/sample-ai-banner.png" alt="AI Banner" style="border-radius:10px; width:100%; max-width:800px;" />
-</div>
-
-- 🚀 I am a **Machine Learning Engineer** with a passion for developing **real-world AI solutions**.
-- 🌐 I specialize in **Natural Language Processing**, **Time Series Analysis**, **Reinforcement Learning**, and **Generative Modeling**.
-- 📦 Experienced in **MLOps** and **deployment** of AI models to scalable production systems.
-- 🎨 I create innovative **Computer Vision** solutions for industry challenges.
-- 🌱 Currently learning **policy gradients for RL** and **diffusion models** for generative AI.
-- 🌍 I love exploring cultures and collaborating on impactful AI projects.
-
----
-
-### 📚 Key Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/hustledanie/legal-doc-summarizer">
-        <img src="https://user-images.githubusercontent.com/12345678/project-thumbnail1.png" alt="Legal Document Summarization" style="width:100%; max-width:300px; border-radius:10px;">
-      </a>
-    </td>
-    <td>
-      <strong>[Legal Document Summarization](https://github.com/hustledanie/legal-doc-summarizer)</strong>: Built an NLP system to summarize legal contracts with high precision.<br>
-      - **Tech**: Python, Transformers, Hugging Face, Flask, Docker<br>
-      - **Impact**: Reduced document review time by 40%.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hustledanie/stock-forecasting">
-        <img src="https://user-images.githubusercontent.com/12345678/project-thumbnail2.png" alt="Stock Price Forecasting" style="width:100%; max-width:300px; border-radius:10px;">
-      </a>
-    </td>
-    <td>
-      <strong>[Stock Price Forecasting](https://github.com/hustledanie/stock-forecasting)</strong>: Developed a time series model using LSTMs and ARIMA.<br>
-      - **Tech**: Python, TensorFlow, Pandas, Matplotlib<br>
-      - **Impact**: Achieved 92% accuracy in predictions.
-    </td>
-  </tr>
-  <!-- Additional projects go here -->
-</table>
-
----
-
-### 🛠️ Technical Skills
-
-#### **Programming Languages**
-- Python, JavaScript, SQL
-
-#### **AI & Machine Learning**
-- TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers
-
-#### **MLOps & Deployment**
-- Docker, Kubernetes, MLflow, FastAPI, Flask, AWS, GCP
-
-#### **Visualization & Tools**
-- Pandas, Matplotlib, Seaborn, Plotly, Streamlit
-
-#### **Frameworks & Libraries**
-- OpenAI Gym, D3.js, NumPy, SciPy
-
-#### **Version Control & CI/CD**
-- Git, GitHub Actions, Jenkins
-
----
-
-### 🏆 Certifications & Achievements
-
-- **AWS Certified Machine Learning – Specialty**
-- **Deep Learning Specialization** (Coursera by Andrew Ng)
-- **Kaggle Expert** in NLP and Computer Vision
-
----
-
-### 🤝 Connect with Me
+<h1 align="center">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
+<h2 align="center">🤖 Machine Learning Engineer | AI Enthusiast</h2>
 
 <p align="center">
-  <a href="https://twitter.com/hustledanie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hustledanie_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/hustledanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hustledanie" height="30" width="40" /></a>
-  <a href="https://github.com/hustledanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hustledanie" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Exploring+Artificial+Intelligence;Building+Real-World+ML+Solutions;Passionate+about+NLP+%26+Computer+Vision" alt="Typing SVG">
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### ⚙️ GitHub Stats
+### 👨‍💻 About Me
+- 🤖 I specialize in designing and implementing **Machine Learning** and **Deep Learning** models for real-world applications.  
+- 🧠 I am passionate about **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.  
+- 🌟 My mission is to build **AI solutions** that positively impact society and drive innovation.  
+- 🌐 Explore my portfolio: [Hustle Daniel's Portfolio](https://hustledaniel.vercel.app)  
+- 🎨 Outside work, I enjoy exploring different cultures and experiencing new perspectives.
 
-<p align="center">
-  <span class="github-stat">
-    <img src="https://github-readme-stats.vercel.app/api?username=hustledanie&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <span class="tooltip">Overview of commits, stars, and contributions.</span>
-  </span>
-  <span class="github-stat">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hustledanie&theme=radical" alt="GitHub Streak Stats" />
-    <span class="tooltip">Your longest streaks and active days.</span>
-  </span>
-  <span class="github-stat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustledanie&layout=compact&theme=radical" alt="Most Used Languages" />
-    <span class="tooltip">Languages you use most frequently.</span>
-  </span>
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://twitter.com/hustledanie_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:hustledanie@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/hustledaniel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hustledanie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-### 🎯 Portfolio
-
-Check out my detailed portfolio: **[Uche Daniel's AI Portfolio](https://hustledaniel.vercel.app)**
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-### 🌟 Open to Collaborations
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hustledanie&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustledanie&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-I’m excited to work on challenging projects in **AI**, **NLP**, **Generative Models**, **Computer Vision**, and **MLOps**. Let’s build something great together!
+---
 
+### 🌟 Featured Projects
+- 🧠 **[Sentiment Analysis with BERT](https://github.com/hustledanie/sentiment-analysis-bert)**: Leveraging transformer models for sentiment analysis.
+- 📸 **[Image Classification with CNNs](https://github.com/hustledanie/image-classification-cnn)**: A deep learning project for categorizing images into classes.
+- 🔢 **[Time Series Forecasting](https://github.com/hustledanie/time-series-forecasting)**: Building predictive models for temporal data analysis.
+
+---
+
+### 🌱 Currently Learning
+- **Generative AI**: Exploring applications of GPT and diffusion models.  
+- **Reinforcement Learning**: Learning about Markov Decision Processes and policy optimization.  
+- **Ethical AI**: Implementing fairness and bias detection in ML systems.
+
+---
+
+🎨 **"Turning ideas into intelligent solutions with AI!"**
