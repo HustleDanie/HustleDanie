@@ -1,4 +1,54 @@
-<h1 align="center">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
+<style>
+  .gradient-heading {
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .github-stat {
+    position: relative;
+    display: inline-block;
+  }
+
+  .github-stat:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .tooltip {
+    visibility: hidden;
+    width: 200px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #000 transparent transparent transparent;
+  }
+</style>
+
+<h1 class="gradient-heading">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00C58E&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer+%7C+AI+Researcher;NLP+%7C+Time+Series+%7C+Reinforcement+Learning;Generative+Modeling+%7C+MLOps+%7C+Deployment;Computer+Vision+Specialist;Passionate+about+Building+AI+Solutions" alt="Typing SVG" />
 </h2>
@@ -97,9 +147,18 @@
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hustledanie&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hustledanie&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustledanie&layout=compact&theme=radical" alt="Most Used Languages" />
+  <span class="github-stat">
+    <img src="https://github-readme-stats.vercel.app/api?username=hustledanie&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <span class="tooltip">Overview of commits, stars, and contributions.</span>
+  </span>
+  <span class="github-stat">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hustledanie&theme=radical" alt="GitHub Streak Stats" />
+    <span class="tooltip">Your longest streaks and active days.</span>
+  </span>
+  <span class="github-stat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustledanie&layout=compact&theme=radical" alt="Most Used Languages" />
+    <span class="tooltip">Languages you use most frequently.</span>
+  </span>
 </p>
 
 ---
@@ -113,3 +172,4 @@ Check out my detailed portfolio: **[Uche Daniel's AI Portfolio](https://hustleda
 ### 🌟 Open to Collaborations
 
 I’m excited to work on challenging projects in **AI**, **NLP**, **Generative Models**, **Computer Vision**, and **MLOps**. Let’s build something great together!
+
