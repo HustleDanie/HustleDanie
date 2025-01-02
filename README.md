@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me
 🤖 I specialize in designing and implementing **Machine Learning** and **Deep Learning** models for real-world applications.   
-🌟 My mission is to build **AI solutions** that positively impact society and drive innovation.  
 🌐 Explore my portfolio: [Hustle Daniel's Portfolio](https://hustledanie-ai.vercel.app)  
 🎨 Outside work, I love travelling.
 
@@ -26,32 +25,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
