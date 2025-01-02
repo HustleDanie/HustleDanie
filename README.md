@@ -9,16 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ### 👨‍💻 About Me
 - 🤖 I specialize in designing and implementing **Machine Learning** and **Deep Learning** models for real-world applications.  
 - 🧠 I am passionate about **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.  
 - 🌟 My mission is to build **AI solutions** that positively impact society and drive innovation.  
 - 🌐 Explore my portfolio: [Hustle Daniel's Portfolio](https://hustledanie-ai.vercel.app)  
 - 🎨 Outside work, I love travelling.
-
----
 
 ### 📫 Connect With Me
 <p align="left">
@@ -35,8 +31,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -66,20 +60,9 @@
   </a>
 </p>
 
----
-
 ### 🌟 Featured Projects
 - 🧠 **[Sentiment Analysis with BERT](https://github.com/hustledanie/sentiment-analysis-bert)**: Leveraging transformer models for sentiment analysis.
 - 📸 **[Image Classification with CNNs](https://github.com/hustledanie/image-classification-cnn)**: A deep learning project for categorizing images into classes.
 - 🔢 **[Time Series Forecasting](https://github.com/hustledanie/time-series-forecasting)**: Building predictive models for temporal data analysis.
-
----
-
-### 🌱 Currently Learning
-- **Generative AI**: Exploring applications of GPT and diffusion models.  
-- **Reinforcement Learning**: Learning about Markov Decision Processes and policy optimization.  
-- **Ethical AI**: Implementing fairness and bias detection in ML systems.
-
----
 
 🎨 **"Turning ideas into intelligent solutions with AI!"**
