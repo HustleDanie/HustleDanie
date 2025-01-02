@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Uche Maduabuchi Daniel</h1>
 <h2 align="center">🤖 Machine Learning Engineer | AI Enthusiast</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Exploring+Artificial+Intelligence;Building+Real-World+ML+Solutions" alt="Typing SVG">
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hustledanie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
-- 🤖 I specialize in designing and implementing **Machine Learning** and **Deep Learning** models for real-world applications.  
-- 🧠 I am passionate about **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.  
-- 🌟 My mission is to build **AI solutions** that positively impact society and drive innovation.  
-- 🌐 Explore my portfolio: [Hustle Daniel's Portfolio](https://hustledanie-ai.vercel.app)  
-- 🎨 Outside work, I love travelling.
+🤖 I specialize in designing and implementing **Machine Learning** and **Deep Learning** models for real-world applications.   
+🌟 My mission is to build **AI solutions** that positively impact society and drive innovation.  
+🌐 Explore my portfolio: [Hustle Daniel's Portfolio](https://hustledanie-ai.vercel.app)  
+🎨 Outside work, I love travelling.
 
 ### 📫 Connect With Me
 <p align="left">
@@ -60,9 +55,3 @@
   </a>
 </p>
 
-### 🌟 Featured Projects
-- 🧠 **[Sentiment Analysis with BERT](https://github.com/hustledanie/sentiment-analysis-bert)**: Leveraging transformer models for sentiment analysis.
-- 📸 **[Image Classification with CNNs](https://github.com/hustledanie/image-classification-cnn)**: A deep learning project for categorizing images into classes.
-- 🔢 **[Time Series Forecasting](https://github.com/hustledanie/time-series-forecasting)**: Building predictive models for temporal data analysis.
-
-🎨 **"Turning ideas into intelligent solutions with AI!"**
