@@ -6,6 +6,6 @@
 </p>
 
 ### 👨‍💻 About Me
-🤖 I specialize in designing and implementing **Machine Learning** and **Deep Learning** models for real-world applications.   
-🌐 Explore my portfolio: [Hustle Daniel's Portfolio](https://hustledanie-ai.vercel.app)  
-🎨 Outside work, I love travelling.
+🤖 I specialize in designing and implementing **Deep Learning** models for real-world applications.   
+🌐 Explore my portfolio: [My Portfolio](https://hustledanie-ai.vercel.app)  
+🎨 I like to tour around the world.
